@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"shopeasy.vendors"},{"v":2,"unique":true,"key":{"email":1},"name":"email_1","ns":"shopeasy.vendors","background":true}],"uuid":"c1a4340515134da6bccc0ffa5a178ca4"}
